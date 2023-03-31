@@ -58,7 +58,12 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=TripleteSumit&theme=radical&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=TripleteSumit&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
+### Thanks for Visiting my GitHub Profile!
+
 ---
+<p align="center">
+<img src="https://github.com/VishwaGauravIn/VishwaGauravIn/blob/output/github-contribution-grid-snake.svg">
+</p>
 
 [![](https://visitcount.itsvg.in/api?id=TripleteSumit&icon=5&color=7)](https://visitcount.itsvg.in)
 
