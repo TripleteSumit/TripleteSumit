@@ -62,7 +62,7 @@
 
 ---
 <p align="center">
-<img src="https://github.com/VishwaGauravIn/VishwaGauravIn/blob/output/github-contribution-grid-snake.svg">
+<img src="https://github.com/TripleteSumit/TripleteSumit/blob/output/github-contribution-grid-snake.svg">
 </p>
 
 [![](https://visitcount.itsvg.in/api?id=TripleteSumit&icon=5&color=7)](https://visitcount.itsvg.in)
