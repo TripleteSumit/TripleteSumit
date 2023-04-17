@@ -53,7 +53,7 @@
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat&logo=kubernetes&logoColor=white)
 
 
-[![Sumit's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=TripleteSumit&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Sumit's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=TripleteSumit&theme=merko)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 # 📊 GitHub Stats:
 
