@@ -64,9 +64,8 @@
 ### Thanks for Visiting my GitHub Profile!
 
 ---
-<p align="center">
-<img src="https://github.com/TripleteSumit/TripleteSumit/blob/output/github-contribution-grid-snake.svg">
-</p>
+![snake gif](https://github.com/TripleteSumit/TripleteSumit/blob/output/github-contribution-grid-snake.svg)
+
 
 [![](https://visitcount.itsvg.in/api?id=TripleteSumit&icon=5&color=7)](https://visitcount.itsvg.in)
 
